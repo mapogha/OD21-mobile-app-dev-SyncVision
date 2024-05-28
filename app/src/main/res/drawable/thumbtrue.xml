@@ -13,4 +13,10 @@
              android:color="@color/darkGrey"/>
      </shape>
  </item>
+ <item
+     android:drawable="@drawable/night_mode"
+     android:top="15dp"
+     android:bottom="15dp"
+     android:left="15dp"
+     android:right="15dp"/>
 </layer-list>
